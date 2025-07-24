@@ -48,7 +48,7 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Calculated `trip_distance_km` using haversine formula.
 - Exported enhanced dataset (`uber_enhanced.csv`).
 
-![Feature Engineering](screenshots/feature_engineering.png)
+<img width="433" height="358" alt="Image" src="https://github.com/user-attachments/assets/e31a9714-2108-4c7b-b253-421f2ba9561e" />
 
 ---
 
