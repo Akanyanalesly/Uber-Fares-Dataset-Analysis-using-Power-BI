@@ -61,12 +61,16 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 
 <img width="337" height="263" alt="Image" src="https://github.com/user-attachments/assets/f6075861-3664-483f-8b66-d2275344cdbc" />
 
+<img width="620" height="314" alt="Image" src="https://github.com/user-attachments/assets/a0b4b4e8-6331-4056-bb09-741c6c5b913a" />
+
 #### Visual 2: Average Fare by Hour
 - Chart Type: Clustered Column
 - Axis: `pickup_hour`
 - Values: Average of `fare_amount`
 
 <img width="336" height="254" alt="Image" src="https://github.com/user-attachments/assets/9bcd40f4-3cc5-4cb6-acc6-9472b11bfbbb" />
+
+<img width="605" height="317" alt="Image" src="https://github.com/user-attachments/assets/5b2c8e4c-5c5b-432a-bca9-289604f8206b" />
 
 #### Visual 3: Fare Distribution by Day of Week
 - Chart Type: Clustered Bar Chart (Box plot not available)
@@ -75,6 +79,8 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 
 <img width="301" height="268" alt="Image" src="https://github.com/user-attachments/assets/7d6e032b-ef46-4305-a925-19c1e8ea5667" />
 
+<img width="608" height="322" alt="Image" src="https://github.com/user-attachments/assets/d02a8b8d-4efb-44f8-8dfb-f9ea9f956452" />
+
 #### Visual 4: Scatter Plot (Fare vs Trip Distance)
 - Chart Type: Scatter Plot
 - X-Axis: `trip_distance_km`
@@ -82,6 +88,9 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Details: `passenger_count` (optional)
 
 <img width="283" height="263" alt="Image" src="https://github.com/user-attachments/assets/6ae1c44a-bbe4-4f29-91b5-b0e90b800ea7" />
+
+<img width="557" height="317" alt="Image" src="https://github.com/user-attachments/assets/aa359345-553d-4ff2-97b5-6343124a1f9c" />
+
 
 #### Visual 5: Pickup Locations Map (Alternative)
 - Used: Line and Stacked Column Chart due to map unavailability
