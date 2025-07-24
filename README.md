@@ -31,7 +31,7 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Loaded into Jupyter Notebook using Pandas.
 - Explored the structure, data types, null values, and duplicate rows.
 
-![Data Loading](.png)
+<img width="641" height="273" alt="Image" src="https://github.com/user-attachments/assets/7d311f94-ca1f-425d-bf40-01218c548727" />
 
 ---
 
@@ -39,7 +39,7 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Removed missing values and extreme outliers (fare, distance).
 - Converted timestamps into proper datetime objects.
 
-![Data Cleaning](screenshots/data_cleaning.png)
+<img width="430" height="314" alt="Image" src="https://github.com/user-attachments/assets/757a4209-3f5d-4d2a-8276-bfdf88729128" />
 
 ---
 
@@ -59,21 +59,21 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Axis: `pickup_hour`
 - Values: Count of `fare_amount`
 
-![Ride Count by Hour](visuals/ride_count_by_hour.png)
+<img width="337" height="263" alt="Image" src="https://github.com/user-attachments/assets/f6075861-3664-483f-8b66-d2275344cdbc" />
 
 #### Visual 2: Average Fare by Hour
 - Chart Type: Clustered Column
 - Axis: `pickup_hour`
 - Values: Average of `fare_amount`
 
-![Average Fare by Hour](visuals/avg_fare_by_hour.png)
+<img width="336" height="254" alt="Image" src="https://github.com/user-attachments/assets/9bcd40f4-3cc5-4cb6-acc6-9472b11bfbbb" />
 
 #### Visual 3: Fare Distribution by Day of Week
 - Chart Type: Clustered Bar Chart (Box plot not available)
 - Axis: `pickup_dayofweek`
 - Values: `fare_amount`
 
-![Fare by Day of Week](visuals/fare_by_day_of_week.png)
+<img width="301" height="268" alt="Image" src="https://github.com/user-attachments/assets/7d6e032b-ef46-4305-a925-19c1e8ea5667" />
 
 #### Visual 4: Scatter Plot (Fare vs Trip Distance)
 - Chart Type: Scatter Plot
@@ -81,13 +81,13 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Y-Axis: `fare_amount`
 - Details: `passenger_count` (optional)
 
-![Scatter Fare vs Distance](visuals/scatter_fare_vs_distance.png)
+<img width="283" height="263" alt="Image" src="https://github.com/user-attachments/assets/6ae1c44a-bbe4-4f29-91b5-b0e90b800ea7" />
 
 #### Visual 5: Pickup Locations Map (Alternative)
 - Used: Line and Stacked Column Chart due to map unavailability
 
-![Map Pickups](visuals/map_pickups.png)
 
+<img width="388" height="257" alt="Image" src="https://github.com/user-attachments/assets/bb393e92-d274-4671-bfbc-90b0de70e302" />
 ---
 
 ### 5. 📈 Dashboard Design
@@ -95,7 +95,7 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Added slicers for time filters (hour, day, month).
 - Formatted chart titles, colors, and tooltips.
 
-![Dashboard Overview](visuals/dashboard_overview.png)
+<img width="625" height="344" alt="Image" src="https://github.com/user-attachments/assets/2c28a603-b583-45d1-87a0-8872be647ffc" />
 
 ---
 
