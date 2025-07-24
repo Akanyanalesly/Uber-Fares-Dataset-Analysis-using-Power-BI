@@ -39,7 +39,7 @@ The primary goal of this project is to analyze the Uber Fares dataset to uncover
 - Removed missing values and extreme outliers (fare, distance).
 - Converted timestamps into proper datetime objects.
 
-<img width="430" height="314" alt="Image" src="https://github.com/user-attachments/assets/757a4209-3f5d-4d2a-8276-bfdf88729128" />
+<img width="458" height="390" alt="Image" src="https://github.com/user-attachments/assets/82c4370d-fac7-46c7-adf6-78286f2669bf" />
 
 ---
 
