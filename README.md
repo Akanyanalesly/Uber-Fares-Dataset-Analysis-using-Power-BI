@@ -5,7 +5,9 @@
 
 **Course:** Introduction to Big Data Analytics – INSY 8413  
 **Instructor:** Eric Maniraguha 
+
 **Group:** A 
+
 **Tool:** Power BI Desktop  
 **Dataset Source:** Uber Fares Dataset from Kaggle  
 **Student Name:** *Akanyana Lesly*  
