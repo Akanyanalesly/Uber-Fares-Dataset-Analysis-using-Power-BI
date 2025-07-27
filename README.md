@@ -4,7 +4,7 @@
 # 📊 Uber Fares Dataset Analysis using Power BI
 
 **Course:** Introduction to Big Data Analytics – INSY 8413  
-**Instructor:** Eric Maniraguha (📧 [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)) 
+**Instructor:** Eric Maniraguha 
 **Group:** A 
 **Tool:** Power BI Desktop  
 **Dataset Source:** Uber Fares Dataset from Kaggle  
